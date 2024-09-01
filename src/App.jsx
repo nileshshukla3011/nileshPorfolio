@@ -1,4 +1,4 @@
-//import React from "react";
+
 import Hero from "./components/hero";
 import Navbar from "./components/Navbar";
 import "./index.css";
