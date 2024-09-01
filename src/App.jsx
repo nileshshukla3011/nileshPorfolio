@@ -1,5 +1,6 @@
 
-import Hero from "./components/hero";
+
+import Banner from "./components/Banner";
 import Navbar from "./components/Navbar";
 import "./index.css";
 
@@ -13,7 +14,7 @@ const App = () => {
     
       <div className="relative container mx-auto px-8">
         <Navbar/>
-        <Hero/>
+        <Banner/>
       </div>
     </div>
   );
