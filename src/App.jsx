@@ -1,7 +1,8 @@
 //import React from "react";
+import Hero from "./components/hero";
 import Navbar from "./components/Navbar";
 import "./index.css";
-import Hero from "../components/Hero";
+
 
 const App = () => {
   return (
