@@ -1,7 +1,7 @@
 //import React from "react";
 import Navbar from "./components/Navbar";
 import "./index.css";
-import Hero from "./components/hero";
+import Hero from "../components/Hero";
 
 const App = () => {
   return (
@@ -11,8 +11,8 @@ const App = () => {
       </div>
     
       <div className="relative container mx-auto px-8">
-        <Navbar />
-        <Hero />
+        <Navbar/>
+        <Hero/>
       </div>
     </div>
   );
